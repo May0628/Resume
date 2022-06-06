@@ -15,10 +15,10 @@
 * **동물**
 
 프로그래밍 언어 스킬   
-1.C
-2. Java
-3. Python
-4. R
+1.C   
+2. Java   
+3. Python   
+4. R   
 
 ----------------------------
 
@@ -29,4 +29,6 @@
 |Java 프로그래밍|java 개요|3학점|
 |소프트웨어세미나1|최신 소프트웨어 트랜드|1학점|
 
+github address: [May0628][github]
 
+[github]:http://github.com/May0628
